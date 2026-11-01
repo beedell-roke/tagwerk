@@ -30,8 +30,6 @@ this repository exists so that reports have somewhere to land and a number to be
   </tbody>
 </table>
 
-Pull requests are not accepted.
-
 ## Two things worth knowing
 
 **Everything here is public.** Issues, comments, screenshots and attachments are readable by
