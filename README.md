@@ -13,9 +13,10 @@ this repository exists so that reports have somewhere to land and a number to be
 | A question, or an idea that is not a request yet | [An issue without a form](../../issues/new) |
 | A security or privacy problem | [Report it privately](../../security/advisories/new) — not as an issue |
 
-Pull requests are not accepted: without the code there is nothing here to change. GitHub does
-not let a repository refuse them, so one that arrives will be closed with a pointer back to
-this line.
+Pull requests are welcome for this README and the issue forms: a typo, a dead link, a clearer
+question. The app's source code is not here, so a change to the app itself belongs in an
+issue, not a pull request. A pull request may be merged, adjusted, or closed without merging;
+opening one carries no promise either way.
 
 ## Two things worth knowing
 
