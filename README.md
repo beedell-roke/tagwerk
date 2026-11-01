@@ -30,6 +30,11 @@ this repository exists so that reports have somewhere to land and a number to be
   </tbody>
 </table>
 
+Pull requests are welcome for this README and the issue forms: a typo, a dead link, a clearer
+question. The app's source code is not here, so a change to the app itself belongs in an
+issue, not a pull request. A pull request may be merged, adjusted, or closed without merging;
+opening one carries no promise either way.
+
 ## Two things worth knowing
 
 **Everything here is public.** Issues, comments, screenshots and attachments are readable by
