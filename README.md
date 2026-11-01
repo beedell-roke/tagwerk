@@ -30,9 +30,7 @@ this repository exists so that reports have somewhere to land and a number to be
   </tbody>
 </table>
 
-Pull requests are not accepted: without the code there is nothing here to change. GitHub does
-not let a repository refuse them, so one that arrives will be closed with a pointer back to
-this line.
+Pull requests are not accepted.
 
 ## Two things worth knowing
 
